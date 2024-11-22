@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevTutorial"
+  site-url: "https://PaulLockett.github.io/nbdevTutorial"
+  description: "The output of going through the end-to-end walkthrough for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/PaulLockett/nbdevTutorial"
